@@ -1,0 +1,93 @@
+.card {
+  background: linear-gradient(0.25turn, #ebf8e1, #f69d3c);
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  text-align: left;
+  display: block;
+  margin: 0;
+  padding: 0;
+  color: rgb(90, 98, 117);
+}
+h5 {
+  text-align: center;
+  color: #42a6f5;
+}
+
+img {
+  display: Block;
+  margin: 0 auto;
+}
+
+h6 {
+  color: #42a6f5;
+  font-size: 15px;
+  margin: 0px 120px;
+}
+
+ul {
+  list-style-type: none;
+  color: #8ec351;
+  font-size: 20px;
+  width: 15rem;
+  margin: 0px;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.current,
+.city-name {
+  color: #4daaf6;
+  padding: 0px 18px;
+  margin: 0;
+  font-size: 30px;
+  text-align: left;
+}
+
+.city-name {
+  color: blueviolet;
+  font-style: italic;
+  padding: 10 px 19 px;
+  font-size: 30px;
+}
+.date {
+  padding-top: 10px;
+  padding-left: 8px;
+  color: #42a6f5;
+  font-size: 20px;
+}
+.current-temperature {
+  color: #8ec351;
+  font-size: 20px;
+  padding: 19 px;
+  text-align: right;
+}
+.temperature {
+  color: #8ec351;
+  font-size: 20px;
+  padding: 10 px 19 px;
+  text-align: left;
+}
+.Future {
+  padding: 0;
+  margin: 18px;
+  width: 10rem;
+  font-size: 20px;
+  color: rgb(79, 174, 84);
+  font-weight: bold;
+}
+
+.Day-of-week {
+  text-align: center;
+  padding: 10px;
+}
+
+.Temp {
+  text-align: center;
+  color: #45acd0;
+  padding: 0px;
+  margin: 0;
+  font-weight: 100px;
+  line-height: 30px;
+}
