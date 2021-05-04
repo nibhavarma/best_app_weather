@@ -20,12 +20,6 @@ img {
   margin: 0 auto;
 }
 
-h6 {
-  color: #42a6f5;
-  font-size: 15px;
-  margin: 0px 120px;
-}
-
 ul {
   list-style-type: none;
   color: #8ec351;
@@ -90,4 +84,10 @@ ul {
   margin: 0;
   font-weight: 100px;
   line-height: 30px;
+}
+.Created-By {
+  color: #42a6f5;
+  font-size: 15px;
+  margin: 10px 120px;
+  padding: 10px;
 }
